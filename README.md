@@ -1,6 +1,6 @@
 [![](https://vsmarketplacebadge.apphb.com/version-short/kuafuwang.lpg-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kuafuwang.lpg-vscode)
 
-
+# This project had moved to  https://github.com/A-LPG/LPG2
 # LPG2
 The LALR parser generator (LPG) is a tool for developing scanners and parsers written in  Python, JavaScript, TypeScript, C#, Java, C++ or C. Input is specified by BNF rules. LPG supports backtracking (to resolve ambiguity), automatic AST generation and grammar inheritance.
 
